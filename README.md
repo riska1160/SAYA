@@ -1,4 +1,4 @@
-# Drawl Nag
+# RAMA GANSS
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
@@ -34,7 +34,7 @@ Simple WhatsApp Bot
 > node index.js
 ```
 
-# Recode: Drawl Nag
+# Recode: RAMA GANSS
 Script: @Nurutomo
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
@@ -43,4 +43,4 @@ Script: @Nurutomo
 
 </p>
 
-[GITHUB](https://github.com/Arya274)
+[GITHUB](https://github.com/Arya274) y
