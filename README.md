@@ -43,4 +43,5 @@ Script: @Nurutomo
 
 </p>
 
-[GITHUB](https://github.com/Arya274) y
+[GITHUB] (https://github.com/Arya274) y
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
